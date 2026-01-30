@@ -1,10 +1,3 @@
-Perfect — I’ll rewrite this as a **clean, well-structured, professional GitHub README**
-(the way recruiters and senior engineers expect to see it).
-
-You can **copy–paste this directly into README.md**.
-
----
-
 # 📊 Azure Cost Monitoring Dashboard
 
 ## 📌 Overview
@@ -106,37 +99,3 @@ Through this project, I gained hands-on understanding of:
 * Sample Azure billing dataset (`.csv`)
 * Architecture diagram
 * Dashboard screenshots
-
----
-
-## 👤 Author
-
-**Ved Jain**
-AZ-900 Certified | Cloud & Data Enthusiast
-
----
-
-### ⭐ If you found this project useful, feel free to star the repository!
-
----
-
-### ✅ Why this README works
-
-✔ Clean section flow
-✔ Recruiter-friendly language
-✔ Enterprise terminology (FinOps, governance, insights)
-✔ Easy to read
-✔ Looks like a real professional project
-
-This README alone makes your GitHub profile look **2–3 levels higher than average students**.
-
----
-
-If you want next, I can prepare:
-
-* 🔹 **Resume project description (ATS optimized)**
-* 🔹 **LinkedIn project post (high HR reach)**
-* 🔹 **Interview questions & answers from this project**
-* 🔹 **AZ-104 roadmap after AZ-900**
-
-Just tell me 👍
