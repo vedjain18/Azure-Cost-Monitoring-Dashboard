@@ -100,5 +100,8 @@ Through this project, I gained hands-on understanding of:
 * Architecture diagram
 * Dashboard screenshots
 
+> ⚠️ Note: > The Azure Cost Analysis view shown below is a **simulated dashboard**
+> created using sample enterprise billing data for learning and portfolio demonstration purposes.
+
 
 
